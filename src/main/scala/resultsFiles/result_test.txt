@@ -1,0 +1,718 @@
+-+-+-+-+-+-+-+-+-+-+-+ ACO -+-+-+-+-+-+-+-+-+-+-+
+******** Experiment number 0 ********
+------------ Iteration number 0 ------------ 
+Iteration best Score: 862
+>>> New best assignation in the iteration 0 !!!!!! 
+Current best Score: 862
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 77
+-- Time for the iteration: 0 = 725.0
+------------ Iteration number 1 ------------ 
+Iteration best Score: 863
+>>> New best assignation in the iteration 1 !!!!!! 
+Current best Score: 863
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 76
+-- Time for the iteration: 1 = 771.0
+------------ Iteration number 2 ------------ 
+Iteration best Score: 866
+>>> New best assignation in the iteration 2 !!!!!! 
+Current best Score: 866
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 73
+-- Time for the iteration: 2 = 711.0
+------------ Iteration number 3 ------------ 
+Iteration best Score: 867
+>>> New best assignation in the iteration 3 !!!!!! 
+Current best Score: 867
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 72
+-- Time for the iteration: 3 = 565.0
+------------ Iteration number 4 ------------ 
+Iteration best Score: 869
+>>> New best assignation in the iteration 4 !!!!!! 
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 4 = 791.0
+------------ Iteration number 5 ------------ 
+Iteration best Score: 861
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 5 = 702.0
+------------ Iteration number 6 ------------ 
+Iteration best Score: 863
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 6 = 761.0
+------------ Iteration number 7 ------------ 
+Iteration best Score: 864
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 7 = 795.0
+------------ Iteration number 8 ------------ 
+Iteration best Score: 861
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 8 = 691.0
+------------ Iteration number 9 ------------ 
+Iteration best Score: 859
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 9 = 825.0
+------------ Iteration number 10 ------------ 
+Iteration best Score: 865
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 10 = 671.0
+------------ Iteration number 11 ------------ 
+Iteration best Score: 861
+Current best Score: 869
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 70
+-- Time for the iteration: 11 = 775.0
+------------ Iteration number 12 ------------ 
+Iteration best Score: 871
+>>> New best assignation in the iteration 12 !!!!!! 
+Current best Score: 871
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 68
+-- Time for the iteration: 12 = 761.0
+------------ Iteration number 13 ------------ 
+Iteration best Score: 861
+Current best Score: 871
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 68
+-- Time for the iteration: 13 = 893.0
+------------ Iteration number 14 ------------ 
+Iteration best Score: 862
+Current best Score: 871
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 68
+-- Time for the iteration: 14 = 886.0
+------------ Iteration number 15 ------------ 
+Iteration best Score: 873
+>>> New best assignation in the iteration 15 !!!!!! 
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 15 = 897.0
+------------ Iteration number 16 ------------ 
+Iteration best Score: 861
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 16 = 715.0
+------------ Iteration number 17 ------------ 
+Iteration best Score: 860
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 17 = 857.0
+------------ Iteration number 18 ------------ 
+Iteration best Score: 862
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 18 = 643.0
+------------ Iteration number 19 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 19 = 933.0
+------------ Iteration number 20 ------------ 
+Iteration best Score: 864
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 20 = 853.0
+------------ Iteration number 21 ------------ 
+Iteration best Score: 871
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 21 = 697.0
+------------ Iteration number 22 ------------ 
+Iteration best Score: 859
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 22 = 715.0
+------------ Iteration number 23 ------------ 
+Iteration best Score: 865
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 23 = 764.0
+------------ Iteration number 24 ------------ 
+Iteration best Score: 868
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 24 = 766.0
+------------ Iteration number 25 ------------ 
+Iteration best Score: 862
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 25 = 681.0
+------------ Iteration number 26 ------------ 
+Iteration best Score: 853
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 26 = 793.0
+------------ Iteration number 27 ------------ 
+Iteration best Score: 865
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 27 = 647.0
+------------ Iteration number 28 ------------ 
+Iteration best Score: 867
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 28 = 673.0
+------------ Iteration number 29 ------------ 
+Iteration best Score: 856
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 29 = 773.0
+------------ Iteration number 30 ------------ 
+Iteration best Score: 857
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 30 = 669.0
+------------ Iteration number 31 ------------ 
+Iteration best Score: 858
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 31 = 626.0
+------------ Iteration number 32 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 32 = 683.0
+------------ Iteration number 33 ------------ 
+Iteration best Score: 856
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 33 = 871.0
+------------ Iteration number 34 ------------ 
+Iteration best Score: 867
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 34 = 842.0
+------------ Iteration number 35 ------------ 
+Iteration best Score: 860
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 35 = 711.0
+------------ Iteration number 36 ------------ 
+Iteration best Score: 856
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 36 = 751.0
+------------ Iteration number 37 ------------ 
+Iteration best Score: 862
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 37 = 659.0
+------------ Iteration number 38 ------------ 
+Iteration best Score: 864
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 38 = 668.0
+------------ Iteration number 39 ------------ 
+Iteration best Score: 862
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 39 = 713.0
+------------ Iteration number 40 ------------ 
+Iteration best Score: 868
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 40 = 757.0
+------------ Iteration number 41 ------------ 
+Iteration best Score: 864
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
++++++++ Solution Stucked!!: Resetting Pheromone Matrix +++++++
+-- Time for the iteration: 41 = 639.0
+------------ Iteration number 42 ------------ 
+Iteration best Score: 872
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 42 = 624.0
+------------ Iteration number 43 ------------ 
+Iteration best Score: 860
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 43 = 632.0
+------------ Iteration number 44 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 44 = 783.0
+------------ Iteration number 45 ------------ 
+Iteration best Score: 867
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 45 = 914.0
+------------ Iteration number 46 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 46 = 747.0
+------------ Iteration number 47 ------------ 
+Iteration best Score: 859
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 47 = 737.0
+------------ Iteration number 48 ------------ 
+Iteration best Score: 865
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 48 = 737.0
+------------ Iteration number 49 ------------ 
+Iteration best Score: 865
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 49 = 972.0
+------------ Iteration number 50 ------------ 
+Iteration best Score: 868
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 50 = 708.0
+------------ Iteration number 51 ------------ 
+Iteration best Score: 866
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 51 = 859.0
+------------ Iteration number 52 ------------ 
+Iteration best Score: 854
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 52 = 1018.0
+------------ Iteration number 53 ------------ 
+Iteration best Score: 857
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 53 = 751.0
+------------ Iteration number 54 ------------ 
+Iteration best Score: 860
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 54 = 889.0
+------------ Iteration number 55 ------------ 
+Iteration best Score: 857
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 55 = 844.0
+------------ Iteration number 56 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 56 = 760.0
+------------ Iteration number 57 ------------ 
+Iteration best Score: 866
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 57 = 760.0
+------------ Iteration number 58 ------------ 
+Iteration best Score: 857
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 58 = 691.0
+------------ Iteration number 59 ------------ 
+Iteration best Score: 864
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 59 = 799.0
+------------ Iteration number 60 ------------ 
+Iteration best Score: 866
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 60 = 923.0
+------------ Iteration number 61 ------------ 
+Iteration best Score: 869
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 61 = 791.0
+------------ Iteration number 62 ------------ 
+Iteration best Score: 867
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 62 = 736.0
+------------ Iteration number 63 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 63 = 870.0
+------------ Iteration number 64 ------------ 
+Iteration best Score: 856
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 64 = 809.0
+------------ Iteration number 65 ------------ 
+Iteration best Score: 858
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 65 = 861.0
+------------ Iteration number 66 ------------ 
+Iteration best Score: 871
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 66 = 722.0
+------------ Iteration number 67 ------------ 
+Iteration best Score: 862
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
++++++++ Solution Stucked!!: Resetting Pheromone Matrix +++++++
+-- Time for the iteration: 67 = 722.0
+------------ Iteration number 68 ------------ 
+Iteration best Score: 868
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 68 = 729.0
+------------ Iteration number 69 ------------ 
+Iteration best Score: 862
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 69 = 707.0
+------------ Iteration number 70 ------------ 
+Iteration best Score: 867
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 70 = 860.0
+------------ Iteration number 71 ------------ 
+Iteration best Score: 863
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 71 = 642.0
+------------ Iteration number 72 ------------ 
+Iteration best Score: 864
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 72 = 673.0
+------------ Iteration number 73 ------------ 
+Iteration best Score: 861
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 73 = 781.0
+------------ Iteration number 74 ------------ 
+Iteration best Score: 865
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 74 = 552.0
+------------ Iteration number 75 ------------ 
+Iteration best Score: 865
+Current best Score: 873
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 66
+-- Time for the iteration: 75 = 859.0
+------------ Iteration number 76 ------------ 
+Iteration best Score: 874
+>>> New best assignation in the iteration 76 !!!!!! 
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 76 = 708.0
+------------ Iteration number 77 ------------ 
+Iteration best Score: 868
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 77 = 549.0
+------------ Iteration number 78 ------------ 
+Iteration best Score: 863
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 78 = 724.0
+------------ Iteration number 79 ------------ 
+Iteration best Score: 861
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 79 = 711.0
+------------ Iteration number 80 ------------ 
+Iteration best Score: 864
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 80 = 808.0
+------------ Iteration number 81 ------------ 
+Iteration best Score: 864
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 81 = 763.0
+------------ Iteration number 82 ------------ 
+Iteration best Score: 868
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 82 = 843.0
+------------ Iteration number 83 ------------ 
+Iteration best Score: 859
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 83 = 726.0
+------------ Iteration number 84 ------------ 
+Iteration best Score: 858
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 84 = 751.0
+------------ Iteration number 85 ------------ 
+Iteration best Score: 862
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 85 = 762.0
+------------ Iteration number 86 ------------ 
+Iteration best Score: 860
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 86 = 740.0
+------------ Iteration number 87 ------------ 
+Iteration best Score: 863
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 87 = 929.0
+------------ Iteration number 88 ------------ 
+Iteration best Score: 861
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 88 = 805.0
+------------ Iteration number 89 ------------ 
+Iteration best Score: 863
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 89 = 848.0
+------------ Iteration number 90 ------------ 
+Iteration best Score: 862
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 90 = 675.0
+------------ Iteration number 91 ------------ 
+Iteration best Score: 867
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 91 = 665.0
+------------ Iteration number 92 ------------ 
+Iteration best Score: 866
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 92 = 592.0
+------------ Iteration number 93 ------------ 
+Iteration best Score: 868
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 93 = 844.0
+------------ Iteration number 94 ------------ 
+Iteration best Score: 856
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 94 = 769.0
+------------ Iteration number 95 ------------ 
+Iteration best Score: 868
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 95 = 733.0
+------------ Iteration number 96 ------------ 
+Iteration best Score: 869
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 96 = 793.0
+------------ Iteration number 97 ------------ 
+Iteration best Score: 867
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 97 = 687.0
+------------ Iteration number 98 ------------ 
+Iteration best Score: 858
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 98 = 637.0
+------------ Iteration number 99 ------------ 
+Iteration best Score: 857
+Current best Score: 874
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+-- Time for the iteration: 99 = 858.0
+------->>> Best global solution: 
+TASKS COVERED IN TOTAL: 539
+TASKS NOT COVERED IN TOTAL: 0
+RESOURCES USED: 65
+Time for the experiment 0 = 75701
+********************************

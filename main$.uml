@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>main$</OriginalElement>
+  <nodes>
+    <node x="800.0" y="377.0">aco.AntMaCACO</node>
+    <node x="458.0" y="366.0">data.railway.StartTask</node>
+    <node x="0.0" y="541.0">main$</node>
+    <node x="945.0" y="377.0">aco.AntStartTime</node>
+    <node x="1482.5" y="111.0">data.railway.Resource</node>
+    <node x="367.0" y="100.0">data.railway.Task</node>
+    <node x="804.5" y="0.0">java.io.Serializable</node>
+    <node x="605.0" y="377.0">aco.AntRandomMaCACO</node>
+    <node x="995.5" y="89.0">data.DataModel</node>
+    <node x="0.0" y="155.0">data.railway.Step</node>
+    <node x="749.5" y="177.0">aco.Ant</node>
+    <node x="1306.5" y="166.0">data.railway.CheckPoint</node>
+    <node x="114.0" y="462.0">FileReader</node>
+    <node x="191.0" y="155.0">data.railway.Train</node>
+    <node x="6.0" y="462.0">scala.App</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="data.railway.Step" target="java.io.Serializable">
+      <point x="0.0" y="-47.5" />
+      <point x="85.5" y="49.0" />
+      <point x="812.7857142857142" y="49.0" />
+      <point x="-49.71428571428572" y="14.5" />
+    </edge>
+    <edge source="aco.Ant" target="java.io.Serializable">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="data.railway.Task" target="java.io.Serializable">
+      <point x="-5.6843418860808015E-14" y="-102.5" />
+      <point x="521.5" y="69.0" />
+      <point x="845.9285714285714" y="69.0" />
+      <point x="-16.571428571428555" y="14.5" />
+    </edge>
+    <edge source="aco.AntMaCACO" target="aco.Ant">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="data.DataModel" target="java.io.Serializable">
+      <point x="0.0" y="-113.5" />
+      <point x="1141.0" y="69.0" />
+      <point x="879.0714285714286" y="69.0" />
+      <point x="16.571428571428555" y="14.5" />
+    </edge>
+    <edge source="main$" target="scala.App">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="data.railway.Resource" target="java.io.Serializable">
+      <point x="0.0" y="-91.5" />
+      <point x="1609.5" y="49.0" />
+      <point x="912.2142857142857" y="49.0" />
+      <point x="49.714285714285666" y="14.5" />
+    </edge>
+    <edge source="data.railway.StartTask" target="data.railway.Task">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="102.5" />
+    </edge>
+    <edge source="data.railway.CheckPoint" target="java.io.Serializable">
+      <point x="0.0" y="-36.5" />
+      <point x="1384.5" y="59.0" />
+      <point x="895.6428571428571" y="59.0" />
+      <point x="33.14285714285711" y="14.5" />
+    </edge>
+    <edge source="aco.AntStartTime" target="aco.Ant">
+      <point x="0.0" y="-14.5" />
+      <point x="1009.5" y="341.0" />
+      <point x="937.8333333333333" y="341.0" />
+      <point x="75.33333333333326" y="25.5" />
+    </edge>
+    <edge source="aco.AntRandomMaCACO" target="aco.Ant">
+      <point x="0.0" y="-14.5" />
+      <point x="692.5" y="341.0" />
+      <point x="787.1666666666666" y="341.0" />
+      <point x="-75.33333333333337" y="25.5" />
+    </edge>
+    <edge source="data.railway.Train" target="java.io.Serializable">
+      <point x="0.0" y="-47.5" />
+      <point x="269.0" y="59.0" />
+      <point x="829.3571428571429" y="59.0" />
+      <point x="-33.14285714285717" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5920852359208524" x="551.0" y="627.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
